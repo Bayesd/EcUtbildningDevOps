@@ -16,7 +16,7 @@ def calculator_div(x: float, y: float) -> float:
 
 def print_result_function(number):
     print(number)
-    if 1 < number < 50:
+    if True:
         print('Less than fifty')
     elif number == 50:
         print('Fifty')
